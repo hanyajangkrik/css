@@ -1,0 +1,13 @@
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+}
+.p1 {
+    line-height: 32px;
+}
+.p2 {
+    text-indent: 15px;
+}
+p3 {
+    text-indent: 50px;
+}

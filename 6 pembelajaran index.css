@@ -1,0 +1,28 @@
+h2, {
+    text-decoration: underline;
+}
+.q1 {
+    font-style: italic;
+}
+.q2 {
+     font-style: italic;
+}
+.li1,.li2,.li3,.li4
+ {
+    font-style: italic;
+}
+.p1 {
+    font-style: italic;
+    text-decoration: underline;
+}
+.p2 {
+    font-style: italic;
+    text-decoration: overline;
+}
+.p3 {
+    font-style: italic;
+    text-decoration: line-through;
+}
+.a1 {
+    text-decoration: none;
+}

@@ -1,0 +1,38 @@
+* {
+    line-height: 1,5;
+
+}
+.blockquote {
+    background-color: aqua;
+}
+.gabut {
+    line-height: 1,5;
+}
+.padding {
+    line-height:1,5;
+    text-align:justify;
+    background-color: bisque;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.margin1 {
+    background-color: aquamarine;
+    padding-bottom: 50px;
+    margin-left: 25px;
+}
+.margin2 {
+    background-color: aqua;
+    margin-right: 60px;
+    
+}
+.margin3 {
+    background-color: beige;
+    margin:auto
+}
+.container {
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+}

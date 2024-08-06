@@ -1,0 +1,14 @@
+.align {
+    text-transform:capitalize ;
+    text-align: center
+    ;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.justify {
+    text-align: justify;
+}

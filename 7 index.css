@@ -1,0 +1,15 @@
+h1 {
+    text-transform: capitalize;
+}
+.italic {
+font-style: italic;
+}
+.capital {
+    text-transform: capitalize;
+}
+.uppercase {
+    text-transform: uppercase
+}
+.lowercase {
+    text-transform: lowercase;
+}
